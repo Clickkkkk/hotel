@@ -16,4 +16,4 @@
 * 展示酒店列表，点击进入详情页面，图片可以放大看
 <img src="http://img04.sogoucdn.com/app/a/100520146/3e5a5aa0f703c905d86cf8182f8ffb54" width="787" height="502" />
 * 编辑酒店信息与添加酒店（非管理员模式登录不可用）
-<img src="http://img03.sogoucdn.com/app/a/100520146/f0d514ad36d4569b5996e4419554186c" width="525" height="502" />
+<img src="http://img03.sogoucdn.com/app/a/100520146/84f41afc7739bcd0cd00fbefa3a1c619" width="525" height="502" />

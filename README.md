@@ -21,3 +21,5 @@
 * 编辑酒店信息与添加酒店（非管理员模式登录不可用）
 <img src="http://img03.sogoucdn.com/app/a/100520146/84f41afc7739bcd0cd00fbefa3a1c619" width="625" height="502" />
 <img src="http://img01.sogoucdn.com/app/a/100520146/908c81b70ca48ec9f74d70a3b1da6270" width="625" height="502" />
+<br>
+没想到能做到这种程度！继续加油8

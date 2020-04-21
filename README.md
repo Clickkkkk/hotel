@@ -12,4 +12,4 @@
 #### 目前功能：<br>
 
 * 注册与登录，
-<img src="http://img03.sogoucdn.com/app/a/100520146/f0d514ad36d4569b5996e4419554186c" width="350" height="335" />
+<img src="http://img03.sogoucdn.com/app/a/100520146/f0d514ad36d4569b5996e4419554186c" width="525" height="502" />

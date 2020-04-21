@@ -11,5 +11,5 @@
 
 #### 目前功能：<br>
 
-* 展示与显示酒店详情
-<img src="http://img03.sogoucdn.com/app/a/100520146/f0d514ad36d4569b5996e4419554186c" width="700" height="670" />
+* 注册与登录，
+<img src="http://img03.sogoucdn.com/app/a/100520146/f0d514ad36d4569b5996e4419554186c" width="350" height="335" />
